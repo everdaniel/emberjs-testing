@@ -1,4 +1,4 @@
 emberjs-testing
 ===============
 
-Testing Ember.js
+This is just me testing Ember.js
